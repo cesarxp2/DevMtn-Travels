@@ -24,6 +24,7 @@
 .adventure-card img {
     width: 100%;
     margin-bottom: 15px;
+    border: 1px solid;
 }
 
 .adventure-card h2 {
@@ -48,4 +49,3 @@
     border-radius: 6px;
 
 }
-

@@ -10,6 +10,7 @@
 
 .location-card img {
     width: 100%;
+    height: 100%;
 }
 
 .location-inner-left {
@@ -102,4 +103,3 @@
         margin: auto;
     }
 }
-

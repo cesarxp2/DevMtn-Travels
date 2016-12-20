@@ -28,6 +28,7 @@
     font-size: 3rem;
     color: #000;
     margin-bottom: 30px;
+    font-family: fantasy;
 }
 
 .about-inner-intro p {
@@ -35,6 +36,8 @@
     font-size: 1.1rem;
     color: #000;
     margin-bottom: 30px;
+    font-family: fantasy;
+
 }
 
 .about-inner-intro button {
